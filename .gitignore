@@ -1,16 +1,11 @@
 venv/
+
 __pycache__/
+
 *.pyc
+
+.vscode/
 
 .env
 
-.streamlit
-
-.vscode
-
-*.db
-
-models/
-
-*.pt
-*.pth
+.streamlit/

@@ -1,3 +1,10 @@
 # Resume Analyzer
 
-AI-powered Resume Analyzer using NLP and Deep Learning.
+Deep Learning based Resume Analyzer built using:
+
+- Python
+- Streamlit
+- NLP
+- Transformers
+- Git
+- Docker
